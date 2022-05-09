@@ -19,11 +19,11 @@ Clone and run the application by writing streamlit run fintech_finder.py in term
 
 Sender Address, Balance, and History
 
-![SendersAddress-Balance-History](images/address-history.png)
+(Images/address-history.png)
 
 Transaction
 
-![Transaction](images/transaction.png)
+(Images/transaction.png)
 
 ## Contributors
 
